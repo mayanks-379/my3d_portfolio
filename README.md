@@ -1,3 +1,6 @@
+<img width="1852" height="962" alt="Image" src="https://github.com/user-attachments/assets/033f0aa2-5f13-457a-a68f-e29588c55386" />
+
+
 🌟 Modern Developer Portfolio
 Welcome to my cutting-edge portfolio built with the latest web technologies to showcase my skills and projects in an immersive way.
 
