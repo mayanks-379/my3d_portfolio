@@ -1,4 +1,32 @@
-# React + Vite
+🌟 Modern Developer Portfolio
+Welcome to my cutting-edge portfolio built with the latest web technologies to showcase my skills and projects in an immersive way.
+
+🛠️ Technologies Used
+Frontend: React.js, JavaScript, HTML5
+
+3D Graphics: Three.JS
+
+Styling: CSS
+
+Contact Form: EmailJS
+
+Build Tool: Vite
+
+✨ Key Features
+🔥 Immersive 3D Visuals
+Powered by React Three.js for stunning 3D elements that bring my portfolio to life
+
+⚡ Buttery Smooth Animations
+Seamless transitions throughout the experience
+
+🎨 Elegant & Responsive Design
+Clean UI built with CSS that looks great on all devices
+
+💌 Functional Contact Form
+Integrated with EmailJS for reliable message delivery
+
+🚀 Blazing Fast Performance
+Vite-powered build for lightning-fast development and optimal production performance# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
